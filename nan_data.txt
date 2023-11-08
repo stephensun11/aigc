@@ -1,0 +1,3 @@
+/home/data/aigc/images/part-00019_4886.png
+/home/data/aigc/images/part-00012_40594.png
+/home/data/aigc/images/part-00001_14235.png
